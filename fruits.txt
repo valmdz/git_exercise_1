@@ -1,3 +1,5 @@
 mango
-lychee big
+small lychee
 guava
+papaya
+watermelon
